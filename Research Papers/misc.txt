@@ -1,0 +1,3 @@
+cool but potentially unrelated stuff.
+
+"Hide and Mine in Strings: Hardness and Algorithms" : https://ieeexplore.ieee.org/abstract/document/9338348

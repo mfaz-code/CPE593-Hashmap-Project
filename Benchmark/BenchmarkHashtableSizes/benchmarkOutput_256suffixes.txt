@@ -1,0 +1,18 @@
+    breaker() call benchmark duration for dictionary: 0.922096 seconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 0.17889 seconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.56e-05 seconds
+ found: [parasynapsis]
+    word search (trie traversal and hash access) benchmark duration for dictionary: 2.06e-05 seconds
+    word add (pure trie mapping) benchmark duration for dictionary: 5.3e-06 seconds
+ found: [raaah]
+    word search (pure trie traversal) benchmark duration for dictionary: 1.78e-05 seconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 5.3e-06 seconds
+ found: [parasyxx]
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.79e-05 seconds
+Goodbye.
+
+terminal "time" option output:
+real    0m1.322s
+user    0m0.000s
+sys     0m0.031s

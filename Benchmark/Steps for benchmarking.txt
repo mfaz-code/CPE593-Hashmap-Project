@@ -1,0 +1,10 @@
+To test the performance of the code and the common hashtable implementation using input size and the hash function used, we can follow these steps:
+
+1. Generate a set of test data with varying input sizes. Can use a tool or library to generate random data.
+
+2. Define the hash function you want to use for the tests. Can experiment with different hash functions to see which one provides the best performance for your specific use case.
+
+3. Time the execution of both implementations for each input size. Can use a profiler or own timing code to measure the elapsed time for each implementation. 
+   and make sure to run the tests multiple times and take the average time to get a more accurate result.
+
+4. Analyze the results to determine which implementation performs better. 

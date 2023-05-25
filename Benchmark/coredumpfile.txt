@@ -1,0 +1,38 @@
+==6020== Memcheck, a memory error detector
+==6020== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==6020== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==6020== Command: ./a.out
+==6020== 
+Checking for prefix [parasy] in dictionary.
+[parasy] has *NOT* been found in the dictionary.
+Checking for word [parasynapsis] in dictionary.
+[parasynapsis] has *NOT* been found in the dictionary.
+Inputting word [raaah in dictionary
+Searching for [raaah] in dictionary: 
+adding word [parasyxx] in dictionary
+Searching for [parasyxx] in dictionary: 
+Goodbye.
+==6020== Invalid free() / delete / delete[] / realloc()
+==6020==    at 0x484BB6F: operator delete(void*, unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==6020==    by 0x10C1F6: trieHash::delAll(trieHash::Node*) (in /home/linuxuser/git/YSKCompressedHashmapDict/a.out)
+==6020==    by 0x10BEC2: trieHash::~trieHash() (in /home/linuxuser/git/YSKCompressedHashmapDict/a.out)
+==6020==    by 0x10B8B9: main (in /home/linuxuser/git/YSKCompressedHashmapDict/a.out)
+==6020==  Address 0x1ffefffc70 is on thread 1's stack
+==6020==  in frame #3, created by main (???:)
+==6020== 
+==6020== 
+==6020== HEAP SUMMARY:
+==6020==     in use at exit: 256 bytes in 4 blocks
+==6020==   total heap usage: 25 allocs, 22 frees, 77,739 bytes allocated
+==6020== 
+==6020== LEAK SUMMARY:
+==6020==    definitely lost: 56 bytes in 1 blocks
+==6020==    indirectly lost: 200 bytes in 3 blocks
+==6020==      possibly lost: 0 bytes in 0 blocks
+==6020==    still reachable: 0 bytes in 0 blocks
+==6020==         suppressed: 0 bytes in 0 blocks
+==6020== Rerun with --leak-check=full to see details of leaked memory
+==6020== 
+==6020== For lists of detected and suppressed errors, rerun with: -s
+==6020== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
+

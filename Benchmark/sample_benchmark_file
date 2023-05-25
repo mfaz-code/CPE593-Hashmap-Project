@@ -1,0 +1,66 @@
+/* In this implementation, first read in the dictionary from a file called "dictionary.txt" and 
+use the custom hashtable implementation to count the number of elements starting with the letter "a". 
+Then repeat the process using a common hashtable implementation and measure the time it takes for each method to complete. 
+Finally, output the memory usage of each method.
+Note that this is just one possible implementation of the benchmarking code */
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <chrono>
+#include <unordered_map>
+
+using namespace std;
+using namespace std::chrono;
+
+int main() {
+    const int k = 64;
+    string line;
+    ifstream myfile("dictionary.txt");
+    unordered_map<string, int> hashmap;
+    auto start = high_resolution_clock::now();
+
+    while (getline(myfile, line)) {
+        string prefix = line.substr(0, 2); // get first two letters
+        if (prefix == "aa") {
+            hashmap[line]++;
+        } else {
+            unordered_map<string, int> new_hashmap;
+            new_hashmap[line]++;
+            for (int i = 0; i < k - 1 && getline(myfile, line); i++) {
+                prefix = line.substr(0, 2);
+                if (prefix != prefix) {
+                    break;
+                }
+                new_hashmap[line]++;
+            }
+            for (const auto& entry : new_hashmap) {
+                hashmap[entry.first] += entry.second;
+            }
+        }
+    }
+
+    auto stop = high_resolution_clock::now();
+    auto duration = duration_cast<milliseconds>(stop - start);
+    cout << "Custom hashtable took " << duration.count() << " milliseconds\n";
+
+    unordered_map<string, int> common_hashmap;
+    myfile.clear(); // reset file state
+    myfile.seekg(0); // go back to beginning of file
+    start = high_resolution_clock::now();
+
+    while (getline(myfile, line)) {
+        if (line[0] == 'a') {
+            common_hashmap[line]++;
+        }
+    }
+
+    stop = high_resolution_clock::now();
+    duration = duration_cast<milliseconds>(stop - start);
+    cout << "Common hashtable took " << duration.count() << " milliseconds\n";
+
+    cout << "Custom hashtable used " << hashmap.size() * sizeof(pair<string, int>) << " bytes\n";
+    cout << "Common hashtable used " << common_hashmap.size() * sizeof(pair<string, int>) << " bytes\n";
+
+    return 0;
+}

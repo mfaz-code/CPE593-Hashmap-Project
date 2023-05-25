@@ -1,0 +1,552 @@
+########################
+    breaker() call benchmark duration for dictionary: 5.952 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.302 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.485 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.763 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.335 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.421 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.922 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.351 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.851 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 2.635 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.525 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.773 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.394 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.371 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.222 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.542 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.262 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.315 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.723 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.184 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.39 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.912 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.34 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.942 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.223 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.304 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.774 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.464 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.861 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.331 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.071 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.162 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.605 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.713 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.284 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.43 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.991 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.31 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.031 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.142 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.354 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.984 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.335 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.38 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.922 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.351 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.501 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.223 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.374 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.443 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.114 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.892 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.351 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.202 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.834 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.966 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.663 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.575 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.932 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.31 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.292 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.533 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.535 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.663 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.545 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.411 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.912 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.992 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.172 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.485 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.503 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.415 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.381 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.252 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.311 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.142 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.193 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.585 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.744 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.304 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.36 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.911 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.37 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.751 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.213 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.234 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.523 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.665 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.912 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.35 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 7.063 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.092 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.214 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.583 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.214 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.932 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.32 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.86 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.122 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.545 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.503 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.184 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.911 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.33 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.491 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.292 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.554 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.634 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.284 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.202 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.351 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.151 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.292 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.585 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.433 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.224 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.212 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.172 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.653 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.695 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.903 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.706 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.421 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.872 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.922 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.133 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.384 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.713 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.304 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.881 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.691 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.142 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.575 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.843 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.515 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.223 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.111 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.122 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.475 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.743 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.374 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.881 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.351 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 8.937 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.433 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.725 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.493 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.805 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.381 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.233 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.242 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.142 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.084 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.803 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.204 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.112 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.32 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.781 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.122 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.455 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.754 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.405 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.912 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.301 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.901 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.093 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.334 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.763 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.264 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.411 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.882 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.32 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.931 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.123 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.585 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.763 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.404 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.421 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.232 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.141 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.734 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.896 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.894 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.445 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.39 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.902 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.31 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.721 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.102 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.334 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.724 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.244 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.421 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.921 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.412 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 2.534 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.876 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.863 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.695 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.42 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.922 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.433 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.112 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.295 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.503 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.255 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.891 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.722 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.312 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.205 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.763 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.285 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.371 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.901 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.331 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.912 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.292 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.254 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.834 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.245 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.441 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.942 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.351 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.861 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.203 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.504 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.754 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.164 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.39 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.022 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.34 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.861 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.102 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.374 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.734 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.194 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.381 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.922 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.33 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 10.07 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.132 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.375 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.703 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.224 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.381 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.222 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.371 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.4 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.803 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.655 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.903 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.335 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.45 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.872 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.34 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.902 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.122 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 1.983 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.494 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.224 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.212 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.33 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.621 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.163 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.114 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 2.856 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.545 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.381 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.962 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.32 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.102 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.253 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.576 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.503 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.335 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.431 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.921 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.34 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.831 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.563 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.134 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.603 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.535 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.43 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.942 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.381 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.042 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.152 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.344 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.583 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.215 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.38 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.891 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.272 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.122 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.094 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.683 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.134 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.401 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.902 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.34 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.563 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.232 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.294 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.874 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.464 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.411 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 1.233 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.302 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.102 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.355 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.743 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.495 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.891 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.33 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.931 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.904 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.975 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.934 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.625 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.431 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.921 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.341 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 6.292 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.253 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.264 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.753 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.193 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.39 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.921 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.321 microseconds
+Goodbye.
+########################
+    breaker() call benchmark duration for dictionary: 5.901 microseconds
+    mapping (.addWord, .addPref, and .makeHashTable) benchmark duration for dictionary: 1.112 microseconds
+[parasy] has *NOT* been found in the dictionary.
+    prefix search (trie traversal) benchmark duration for dictionary: 2.365 microseconds
+[parasynapsis] has *NOT* been found in the dictionary.
+    word search (trie traversal and hash access) benchmark duration for dictionary: 1.714 microseconds
+    word add (pure trie mapping) benchmark duration for dictionary: 2.214 microseconds
+    word search (pure trie traversal) benchmark duration for dictionary: 0.391 microseconds
+    word add (trie traversal and hash access) benchmark duration for dictionary: 0.912 microseconds
+    word search (trie traversal and hash access) benchmark duration for dictionary: 0.35 microseconds
+Goodbye.

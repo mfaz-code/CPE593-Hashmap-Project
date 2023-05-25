@@ -1,0 +1,66 @@
+Pseudocode for Compresses Hashmap Dictionary Project
+
+// Define the size of the hashtable
+const int HASHTABLE_SIZE = 1000000;
+
+// Define the encoding values for each symbol
+const int END1 = 26;
+const int END2 = 27;
+const int LETTER_A = 0;
+const int LETTER_B = 1;
+...
+const int LETTER_Z = 25;
+
+// Define a function to encode a word as an integer
+// The encodeWord function encodes a word as an integer using arithmetic encoding in base 28, 
+appending the END1 symbol to the end of the encoded value.
+int encodeWord(string word) {
+    int value = 0;
+    for (char c : word) {
+        int symbol = c - 'a'; // Convert letter to integer symbol
+        value = value * 28 + symbol;
+    }
+    value = value * 28 + END1; // Append END1 symbol
+    return value;
+}
+
+// Create the hashtable
+vector<int> hashtable[HASHTABLE_SIZE];
+
+// Read in the dictionary
+vector<string> dictionary;
+while (getline(cin, line)) {
+    dictionary.push_back(line);
+}
+
+// Count the number of elements that start with the letter a
+// The code then iterates over all possible prefixes starting with "aa" and 
+// counts the number of words starting with each prefix. 
+// For each prefix, it encodes each matching word as an integer using encodeWord, 
+// and inserts it into the hashtable using the modulus operator to determine the bucket in the hashtable.
+
+
+int count = 0;
+for (char c = 'a'; c <= 'z'; c++) {
+    string prefix = string(2, 'a') + c; // Start with "aa" prefix
+    int prefixValue = encodeWord(prefix);
+    int wordsFound = 0;
+    for (string word : dictionary) {
+        if (word.substr(0, 2) == "aa" && word[2] == c) {
+            int wordValue = encodeWord(word);
+            hashtable[wordValue % HASHTABLE_SIZE].push_back(wordValue);
+            wordsFound++;
+            if (wordsFound >= 64) {
+                break;
+            }
+        }
+    }
+    count += wordsFound;
+}
+
+// Print the result
+// Finally, the code prints out the total count of words starting with the letter 'a'.
+cout << "Number of words starting with 'a': " << count << endl;
+
+
+
